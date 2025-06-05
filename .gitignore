@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Pygame 生成的临时文件
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 其他
+*.bak
+*.tmp 
